@@ -169,17 +169,7 @@ employee-leave-management/
 
 ---
 
-## 📸 9. Screenshots Placeholder
-
-*(Include screenshots of the application here when uploading to GitHub)*
-- Dashboard Overview
-- Employee Leave Application Page
-- Admin Leave Approval Panel
-- Employee Directory Table
-
----
-
-## 🔮 10. Future Improvements
+## 🔮 9. Future Improvements
 - Email notification sending upon leave approval/rejection.
 - Export leave reports to PDF/Excel format.
 - Leave balance quota limit per employee per year.
