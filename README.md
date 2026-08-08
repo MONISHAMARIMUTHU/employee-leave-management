@@ -104,8 +104,8 @@ employee-leave-management/
 
 ### Default Credentials:
 - **Admin**: `admin@company.com` / `admin123`
-- **Employee 1**: `john.doe@company.com` / `user123`
-- **Employee 2**: `jane.smith@company.com` / `user123`
+- **Employee 1**: `mani@company.com` / `mani123`
+- **Employee 2**: `aji@company.com` / `aji123`
 
 ---
 
