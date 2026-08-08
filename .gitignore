@@ -1,0 +1,18 @@
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Java / Spring Boot / Maven
+target/
+*.class
+*.jar
+*.war
+
+# IDEs & OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
